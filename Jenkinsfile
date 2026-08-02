@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         IMAGE_NAME = "imaravinda/devops-sprint1:v1"
-        EC2_HOST = "100.55.149.80"
+        EC2_HOST = "Instance-ip"
     }
 
     stages {
