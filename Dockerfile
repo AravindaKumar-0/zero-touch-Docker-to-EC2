@@ -3,4 +3,4 @@ FROM nginx:latest
 COPY index.html /usr/share/nginx/html/index.html
 
 EXPOSE 80
-//port to listen
+#port to listen the traffic
