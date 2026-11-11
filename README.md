@@ -29,7 +29,7 @@ Skills Demonstrated
 • Troubleshooting
              Architecture Flow
 
-<img width="1321" height="1359" alt="ci-cd" src="https://github.com/user-attachments/assets/4eaec11c-e0df-4d25-81c5-10660eb5966d" />
+<img width="1321" height="1359" alt="ci-cd" src="https://github.com/user-attachments/assets/4eaec11c-e0df-4d25-81c5-10660eb5966d"/>
 
 
 Tech Stack
